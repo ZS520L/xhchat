@@ -118,7 +118,7 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          小海Chat
+          妙笔生财
         </div>
         <div className={styles["sidebar-sub-title"]}>
           <a href="https://dwz.cn/nsEbT0GM" target="_blank" style={{fontSize: '18px', marginRight: '12px'}}>购买次数</a>
