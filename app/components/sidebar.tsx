@@ -121,8 +121,9 @@ export function SideBar(props: { className?: string }) {
           妙笔生财
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          <a href="https://dwz.cn/nsEbT0GM" target="_blank" style={{fontSize: '18px', marginRight: '12px'}}>购买次数</a>
-          <a href="https://uvllkvq4dq1.feishu.cn/docx/RmxQdQjMpoRwMoxs2C1cer4tnAg" target="_blank" style={{fontSize: '18px', marginRight: '12px'}}>配置教程</a>
+          妙笔AI 让你的写作如鱼得水
+{/*           <a href="https://dwz.cn/nsEbT0GM" target="_blank" style={{fontSize: '18px', marginRight: '12px'}}>购买次数</a>
+          <a href="https://uvllkvq4dq1.feishu.cn/docx/RmxQdQjMpoRwMoxs2C1cer4tnAg" target="_blank" style={{fontSize: '18px', marginRight: '12px'}}>配置教程</a> */}
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
