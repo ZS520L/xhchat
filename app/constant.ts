@@ -65,7 +65,7 @@ Current time: {{time}}`;
 
 export const DEFAULT_MODELS = [
   {
-    name: "claude-2-100k",
+    name: "gpt-3.5-turbo",
     available: true,
   },
   {
@@ -80,7 +80,10 @@ export const DEFAULT_MODELS = [
     name: "gpt-4-32k",
     available: true,
   },
-
+  {
+    name: "claude-2-100k",
+    available: true,
+  },
 
 
 ] as const;
